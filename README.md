@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#이 어플리케이션은 습관 추적기 입니다.
+  원하는 습관 (책 읽기나 운동)과 같은 것들을 추가하고 횟수를 체크할 수 있습니다.
+  
+#또한 사람들의 점수 측정기로도 사용할 수 있습니다. 
+
 ## Available Scripts
 
 In the project directory, you can run:
